@@ -1,3 +1,0 @@
-"ID (optional, see documentation)",Label (required),"Form Type (required, see documentation)","Tab/Fieldset ID (optional, see documentation)",Help Text (optional),ToDoScript ID (optional),ToDoScript Metadata (optional),"Choices (required*, see documentation)","Repeat for each (optional, see documentation)","Required (default: no, yes/no)"
-7008479,Action,Tab,,,"","",,,no
-7008480,"I have read and understand the revisions to the written procedures.  I have shared the information and my knowledge with my officer(s) and staff, as applicable.",Check Box,7008479,"","","",,,yes

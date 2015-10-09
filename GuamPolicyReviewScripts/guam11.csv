@@ -1,5 +1,0 @@
-"ID (optional, see documentation)",Label (required),"Form Type (required, see documentation)","Tab/Fieldset ID (optional, see documentation)",Help Text (optional),ToDoScript ID (optional),ToDoScript Metadata (optional),"Choices (required*, see documentation)","Repeat for each (optional, see documentation)","Required (default: no, yes/no)"
-7008471,Action,Tab,,,"","",,,no
-7008472,Gather Feedback,Fieldset,7008471,"","","",,,no
-7008474,Did the additional designated reviewer(s) for the written procedures provide any recommended changes to the policy document?,Radio Button,7008472,"","","","Yes – I uploaded the updated final version of the document with any recommended changes on the Update Files tab, No – no changes to the document were needed",,yes
-7008475,Comments from all reviewers of the written procedures:,Text (multi-line),7008472,"Note: The additional reviewer(s) is someone other than the business unit owner and its Administrator, that was designated to review the written procedures. If there were no changes suggested, indicate “Not applicable.”","","",,,no

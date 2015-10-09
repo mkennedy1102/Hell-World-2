@@ -1,6 +1,0 @@
-"ID (optional, see documentation)",Label (required),"Form Type (required, see documentation)","Tab/Fieldset ID (optional, see documentation)",Help Text (optional),ToDoScript ID (optional),ToDoScript Metadata (optional),"Choices (required*, see documentation)","Repeat for each (optional, see documentation)","Required (default: no, yes/no)"
-7008453,Action,Tab,,,"","",,,no
-7008454,Prepare and Submit,Fieldset,7008453,"","","",,,no
-7008455,I have prepared a memorandum which includes a summary of the new policy or documenting any changes to an existing policy.,Check Box,7008454,"","","",,,yes
-7008456,"I submitted the memorandum with the final policy document to the Executive Office (CEO or COO), as applicable, for timely submission to the Board of Directors for review and approval.",Check Box,7008454,"","","",,,yes
-7008457,Comments:,Text (multi-line),7008454,"For example: this space can be used for annotation, explanation of changes, or highlights.","","",,,no
