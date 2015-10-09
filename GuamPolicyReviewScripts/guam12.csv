@@ -1,0 +1,3 @@
+"ID (optional, see documentation)",Label (required),"Form Type (required, see documentation)","Tab/Fieldset ID (optional, see documentation)",Help Text (optional),ToDoScript ID (optional),ToDoScript Metadata (optional),"Choices (required*, see documentation)","Repeat for each (optional, see documentation)","Required (default: no, yes/no)"
+7008465,Action,Tab,,,"","",,,no
+7008466,"I have read, understood, and agree to the policy.  I have shared the information and my knowledge with my officer(s) and staff, as applicable.",Check Box,7008465,"","","",,,yes

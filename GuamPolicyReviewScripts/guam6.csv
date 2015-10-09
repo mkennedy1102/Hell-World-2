@@ -1,0 +1,10 @@
+"ID (optional, see documentation)",Label (required),"Form Type (required, see documentation)","Tab/Fieldset ID (optional, see documentation)",Help Text (optional),ToDoScript ID (optional),ToDoScript Metadata (optional),"Choices (required*, see documentation)","Repeat for each (optional, see documentation)","Required (default: no, yes/no)"
+7652095,Action,Tab,,,"","",,,no
+7652096,Gather Feedback,Fieldset,7652095,"","","",,,no
+7652097,Attestation,Fieldset,7652095,,"","",,,no
+7652098,Did the Board of Directors provide any recommended changes to the policy document?,Radio Button,7652096,"","","","Yes – I uploaded the updated final version of the document with any recommended changes on the Update Files tab, No – no changes to the document were needed",,yes
+7652099,Comments from the Board of Directors:,Text (multi-line),7652096,"For example: this space can be used for annotation, explanation of changes, or highlights.","","",,,no
+7652100,Does this policy need to be distributed amongst the staff?,Radio Button,7652097,"",6,"","Yes, No",,no
+7652101,Who is required to attest to their understanding of the policy?,Select (standard),7652097,"Note: The individual assigned will receive the next Attestation ToDo and will ultimately be responsible for sharing the information and knowledge with the rest of his/her officer(s) and staff that need to know of the changes (i.e. department manager, etc.).",attestationpolicy1,"",People,,yes
+7652102,Comments,Text (multi-line),7652097,"Note: Specify which employee(s), aside from the person assigned above, should know about these changes.  If there are no other(s), you must indicate ""Not applicable.""","","",,,no
+7652103,server_message,Server Message,7652097,,server_message,"",,,no

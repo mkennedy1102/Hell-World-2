@@ -1,0 +1,5 @@
+"ID (optional, see documentation)",Label (required),"Form Type (required, see documentation)","Tab/Fieldset ID (optional, see documentation)",Help Text (optional),ToDoScript ID (optional),ToDoScript Metadata (optional),"Choices (required*, see documentation)","Repeat for each (optional, see documentation)","Required (default: no, yes/no)"
+7008408,Action,Tab,,,"","",,,no
+7008409,Update to Policy,Fieldset,7008408,"","","",,,no
+7008410,I uploaded the updated version of the policy document on the Update Files tab.,Check Box,7008409,"","","",,,yes
+7008411,Comments,Text (multi-line),7008409,"For example: this space can be used for annotation, explanation of changes, or highlights. No action will result from these comments.","","",,,no

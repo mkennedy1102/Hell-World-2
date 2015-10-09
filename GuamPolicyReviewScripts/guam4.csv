@@ -1,0 +1,7 @@
+"ID (optional, see documentation)",Label (required),"Form Type (required, see documentation)","Tab/Fieldset ID (optional, see documentation)",Help Text (optional),ToDoScript ID (optional),ToDoScript Metadata (optional),"Choices (required*, see documentation)","Repeat for each (optional, see documentation)","Required (default: no, yes/no)"
+7008434,Action,Tab,,,"","",,,no
+7008435,Gather Feedback,Fieldset,7008434,"","","",,,no
+7008436,Board of Directors Approval,Fieldset,7008434,"","","",,,no
+7008438,Did the additional designated policy reviewers provide any recommended changes to the policy document?,Radio Button,7008435,"Note: The additional designated policy reviewers are designated to review the policy, aside from the business unit owner.","","","Yes – I uploaded the updated final version of the document with any recommended changes on the Update Files tab, No – no changes to the document were needed",,yes
+7008439,Comments from all policy reviewers:,Text (multi-line),7008435,"For example: this space can be used for annotation, explanation of changes, or highlights.","","",,,no
+7008440,Does this policy (or a summary of changes made to the document) need to be submitted to the Board of Directors for approval?,Radio Button,7008436,"",3a,"","Yes, No",,yes

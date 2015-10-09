@@ -1,0 +1,9 @@
+"ID (optional, see documentation)",Label (required),"Form Type (required, see documentation)","Tab/Fieldset ID (optional, see documentation)",Help Text (optional),ToDoScript ID (optional),ToDoScript Metadata (optional),"Choices (required*, see documentation)","Repeat for each (optional, see documentation)","Required (default: no, yes/no)"
+7008412,Action,Tab,,,"","",,,no
+7008413,Update,Fieldset,7008412,"","","",,,no
+7008414,Additional Review of Written Procedures,Fieldset,7008412,"","","",,,no
+7008415,I uploaded the updated version of the written procedures on the Update Files tab.,Check Box,7008413,"","","",,,yes
+7008416,Comments,Text (multi-line),7008413,"Note: Specify the changes made to the document.  In addition, this space can be used for annotation, explanation of changes, or highlights. No action will result from these comments.","","",,,yes
+7008417,Are there any other reviewers responsible for reviewing the written procedures and providing feedback?,Radio Button,7008414,Additional reviewer(s) other than business unit owner.,"","","Yes, No",,yes
+7008418,"Aside from the business unit owner and its Administrator, who must review the updated written procedures?",Select (standard),7008414,"For example:  This designation is for the other reviewer who is responsible for reviewing the written procedures after the business unit owner makes his/her recommended changes, but concurrent with the Administrator of business unit.",additional_reviewer2,"",People,,no
+7891366,server_message,Server Message,7008414,,server_message,"",,,no

@@ -1,0 +1,3 @@
+"ID (optional, see documentation)",Label (required),"Form Type (required, see documentation)","Tab/Fieldset ID (optional, see documentation)",Help Text (optional),ToDoScript ID (optional),ToDoScript Metadata (optional),"Choices (required*, see documentation)","Repeat for each (optional, see documentation)","Required (default: no, yes/no)"
+8882834,Action,Tab,,,"","",,,no
+8882835,"Be sure to close this ToDo by Clicking ""DONE""",Text,8882834,,"","",,,no

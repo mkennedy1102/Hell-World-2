@@ -1,0 +1,3 @@
+"ID (optional, see documentation)",Label (required),"Form Type (required, see documentation)","Tab/Fieldset ID (optional, see documentation)",Help Text (optional),ToDoScript ID (optional),ToDoScript Metadata (optional),"Choices (required*, see documentation)","Repeat for each (optional, see documentation)","Required (default: no, yes/no)"
+11172490,Action,Tab,,,"","",,,no
+11172492,Comments:,Text (multi-line),11172490,Please indicate the reason why the file(s) were updated or replaced.,"","",,,yes
